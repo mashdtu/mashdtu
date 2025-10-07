@@ -3,3 +3,8 @@
 Experience in:
 JavaScript, TypeScript, Python, Java, C, C++, C#.
 
+>[!CAUTION]
+>Criminal History
+>
+> - [x] Casting Spells with deadly intent
+> - [x] Shadow Wizard
