@@ -4,4 +4,4 @@ Experience in:
 JavaScript, TypeScript, Python, Java, C, C++, C#.
 
 Focus area:
-Embedded systems, Web development, Software architecture.
+Embedded systems, Computer architecture, Functional programming.
