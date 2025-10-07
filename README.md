@@ -2,3 +2,6 @@
 
 Experience in:
 JavaScript, TypeScript, Python, Java, C, C++, C#.
+
+Focus area:
+Embedded systemsm Web development, Software architecture.
