@@ -15,5 +15,6 @@ export default async function handler(req, res) {
     label: 'Pull Requests',
     message: String(total_count ?? 0),
     color: 'purple',
+    cacheSeconds: 300,
   });
 }
