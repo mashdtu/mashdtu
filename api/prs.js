@@ -3,7 +3,7 @@ export default async function handler(req, res) {
   const headers = token ? { Authorization: `Bearer ${token}` } : {};
 
   const r = await fetch(
-    'https://api.github.com/search/issues?q=author:mashdtu+type:pr&per_page=1',
+    'https://api.github.com/search/issues?q=author:mashdtu+is:pull-request&per_page=1',
     { headers }
   );
   const { total_count } = await r.json();
