@@ -5,4 +5,4 @@
 [![PRs](https://img.shields.io/endpoint?url=https%3A%2F%2Fmashdtu-readme.vercel.app%2Fapi%2Fprs&logo=github&style=flat)](https://github.com/search?q=author%3Amashdtu&type=pullrequests) \
 20 year old Software Technology Engineering student at the Technical University of Denmark. \
 Experience in:
-`C` `C++` `MIPS32` `RISC-V` `Python` `Java` `Scala` `JavaScript` `TypeScript` `F#`
+`C` `C++` `C#` `MIPS32` `RISC-V` `Python` `Java` `Scala` `JavaScript` `TypeScript` `F#` `ProLog`
